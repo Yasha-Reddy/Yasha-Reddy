@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yasha-Reddy
 - 👀 I’m interested in Java and Python 
-- 🌱 I’m currently learning Full Stack
+- 🌱 My learning path currently is Full Stack Developer
 - 💞️ I’m looking to collaborate on interesting projects on Java and Python
 - 📫 How to reach me = yashwanthreddy2007@gmail.com
 
